@@ -2,8 +2,8 @@
 
 int main(void)
 {
-	printf("hello world");
-	printf("hello world ÀÌ°Ç º¯°æÇÑ°Å, ¶Ç º¯°æÇÒ°ÅÀÓ");
-	printf("½ÇÇèÀÓ");
+	printf("hello world"); ë­ì•¼
+	printf("hello world ì´ê±´ ë³€ê²½í•œê±°, ë˜ ë³€ê²½í• ê±°ì„");
+	printf("ì‹¤í—˜ì„");
 	return 0;
 }
