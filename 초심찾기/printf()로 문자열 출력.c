@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("%d + %d = %d\n", 123, 4567);
+	printf("hello world");
 	return 0;
 }
